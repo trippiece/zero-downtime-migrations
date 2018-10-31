@@ -50,6 +50,5 @@ setup(
     python_requires='>=2.7,!=3.2.*,!=3.3.*,<4.0',
     install_requires=[
         'Django>=1.3',
-        'psycopg2>=2.7.3.2',
     ]
 )
